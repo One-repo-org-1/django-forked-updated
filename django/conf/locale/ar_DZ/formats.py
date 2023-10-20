@@ -4,6 +4,7 @@
 # see https://docs.djangoproject.com/en/dev/ref/templates/builtins/#date
 DATE_FORMAT = "j F Y"
 TIME_FORMAT = "H:i"
+BLRAutomationRegression BLRAutomationRegression
 DATETIME_FORMAT = "j F Y H:i"
 YEAR_MONTH_FORMAT = "F Y"
 MONTH_DAY_FORMAT = "j F"
